@@ -4,7 +4,7 @@ void settings() {
 
 void setup() {
   noLoop();
-  background(30, 200, 0);
+  background(255, 77, 205);
 }
 
 void draw() {
